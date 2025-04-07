@@ -1,17 +1,17 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=452677&height=200&section=header&text=Ol%C3%A1✌🏾,%20sou%20o%20Igor%20Batista!&fontSize=30&fontColor=ffffff" />
 </p>
-<p align="center">
-  <samp>
-    <strong>Desenvolvedor Full-Stack em constante evolução</strong><br/>
-    Tenho experiência prática com PHP, MySQL, Angular (junto com HTML, SCSS e TypeScript) e Git, tecnologias que aplico no meu trabalho atual.<br/>
-    Atualmente, estou focado em aprender Python e aprofundar meus conhecimentos em Django, buscando oportunidades nessa área.<br/>
-    <em>Aberto a Oportunidades 👨🏾‍💻</em><br/><br/>
-    <em>Hobbies:</em> Musculação, futebol, ouvir música, brincar com pets<br/>
-    <em>Combustível matinal:</em> um bom café para dar um up ☕
-  </samp>
+<div align="center">
+<p>
+  <strong><h2>Desenvolvedor Full-Stack em constante evolução</h2></strong>
 </p>
-
+ <h4 align="center">
+  Tenho experiência prática com PHP, MySQL, Angular (HTML, SCSS, TypeScript) e Git, tecnologias que aplico no meu trabalho atual.<br/>
+  Atualmente, estou focado em aprender <strong>Python</strong> e me aprofundar com <strong>Django</strong>, buscando oportunidades nessa stack.<br/>
+  <em>👨🏾‍💻 Aberto a Oportunidades</em><br/><br/>
+  <em>🏋🏾‍♂️ Hobbies:</em> Musculação, futebol, ouvir música, brincar com pets<br/>
+  <em>☕ Combustível matinal:</em> um bom café para dar um up!
+</h4>
 
 <p align="left">
 
@@ -57,6 +57,7 @@
 
 </p>
 </div>
+
 ---
 
 ### 📊 &nbsp;GitHub Stats
@@ -68,44 +69,3 @@
 
 ---
 
-<!--
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=Olá,%20sou%20o%20Igor%20Batista!&fontSize=30&fontColor=ffffff" />
-
-## 👨🏾‍💻 Desenvolvedor Front-end em evolução constante!
-
-Sou apaixonado por tecnologia e desenvolvimento web. Atualmente focado em:
-
-- 🌐 HTML, CSS, JavaScript e TypeScript
-- ⚛️ Frameworks como Angular e React
-- 💡 Criando projetos práticos e úteis
-- 📚 Sempre aprendendo algo novo!
-
----
-
-### 🚀 Projetos em destaque:
-
-- 🔗 [Meu Portfólio](https://ig_portifolio.github.io/)
-- 📘 [Loja Virtual](https://github.com/DeveloperIgorM/lojaVirtual)
-- 🔍 [Library Findbooks](https://github.com/DeveloperIgorM/Library-Findbooks)
-
----
-
-### 📈 GitHub Stats
-
-![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperIgorM&show_icons=true&theme=radical)
-
----
-
-### 📫 Me conecta lá:
-
-- 📸 [Instagram](https://instagram.com/seuuser)
-- 💼 [LinkedIn](https://linkedin.com/in/seulinkedin)
-- 💻 Meu portfólio: [ig_portifolio.github.io](https://ig_portifolio.github.io/)
-
----
-
-🧃 Curto um bom café, música e uma boa conversa sobre dev.
-
-> “Não sonhe pequeno. O código do sucesso é escrito por quem ousa.”
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=120&section=footer"/> -->
