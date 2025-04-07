@@ -2,10 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=452677&height=200&section=header&text=Ol%C3%A1✌🏾,%20sou%20o%20Igor%20Batista!&fontSize=30&fontColor=ffffff" />
 </p>
 <div align="center">
-<p>
-  <strong><h2>Desenvolvedor Full-Stack em constante evolução</h2></strong>
-</p>
  <h4 align="center">
+  <strong><h3>Desenvolvedor Full-Stack em constante evolução</h3></strong>
   Tenho experiência prática com PHP, MySQL, Angular (HTML, SCSS, TypeScript) e Git, tecnologias que aplico no meu trabalho atual.<br/>
   Atualmente, estou focado em aprender <strong>Python</strong> e me aprofundar com <strong>Django</strong>, buscando oportunidades nessa stack.<br/>
   <em>👨🏾‍💻 Aberto a Oportunidades</em><br/><br/>
@@ -13,6 +11,7 @@
   <em>☕ Combustível matinal:</em> um bom café para dar um up!
 </h4>
 
+</div>
 <p align="left">
 
 [📍Meu Portifólio](https://developerigorm.github.io/ig_portifolio.github.io/)
