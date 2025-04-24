@@ -16,6 +16,8 @@ Atualmente, estou focado em aprender **PYTHON** e buscando crescer profissionalm
 
 <img align="right" alt="image" src="assets/me-ghibi.png" width="200" />
 
+<br/>
+
 🧠 Sempre aberto a **novas oportunidades** e aprendizados  
 💪🏾 **Hobbies:** Musculação e ouvir músicas são minhas terapias  
 ☕ Apaixonado por um cafézinho
@@ -47,7 +49,7 @@ Atualmente, estou focado em aprender **PYTHON** e buscando crescer profissionalm
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DeveloperIgorM&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperIgorM&layout=compact&theme=tokyonight" />
 
-<br/>
+<br/><br/>
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo" />
