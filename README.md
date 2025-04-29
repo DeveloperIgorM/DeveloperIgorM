@@ -16,7 +16,7 @@ Atualmente, estou focado em aprender **Python** e buscando crescer profissionalm
 
 <img align="right" alt="image" src="assets/me-ghibi.png" width="200" />
 
-<br/>
+<br/><br/>
 
 🧠 Sempre aberto a **novas oportunidades** e aprendizados  
 💪🏾 **Hobbies:** Musculação e ouvir músicas são minhas terapias  
@@ -37,7 +37,7 @@ Atualmente, estou focado em aprender **Python** e buscando crescer profissionalm
   <a href="https://www.instagram.com/igoor_math3us/?next=%2F">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram logo" />
   </a>
-<br/><br/>
+<br/>
 
 </div>
 
@@ -68,15 +68,8 @@ Atualmente, estou focado em aprender **Python** e buscando crescer profissionalm
 </div>
 
 ---
-<div align="left" style="display: flex; align-items: center;">
-  <img 
-    alt="image" 
-    src="assets/pweb.webp" 
-    width="200" 
-    height="160"
-    style="margin: 4em 4em 4em 4em; border-radius: 50%;" 
-  />
-  <p style=" font-size: 25px;"><i>Obrigado pela visita!!</i></p>
-</div>
+
+<img src="assets/rodape-img.png" alt="image" width="1090px" height="300px"/>
+
 
 ---
