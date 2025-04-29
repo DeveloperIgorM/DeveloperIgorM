@@ -69,7 +69,7 @@ Atualmente, estou focado em aprender **Python** e buscando crescer profissionalm
 
 ---
 
-<img src="assets/perna-longa-img.png" alt="image" width="1090px" height="300px"/>
+<img src="assets/perna-longa.png" alt="image" width="1090px" height="300px"/>
 <!-- <div align="left" style="display: flex; align-items: center; background-color: #0D1117">
   <img 
     alt="image" 
