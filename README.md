@@ -69,7 +69,7 @@ Atualmente, estou focado em aprender **Python** e buscando crescer profissionalm
 
 ---
 
-<img src="assets/perna-longa.png" alt="image" width="1110px" height="350px"/>
+<img src="assets/perna-longa.png" alt="image" width="1080px" height="250px"/>
 
 
 ---
