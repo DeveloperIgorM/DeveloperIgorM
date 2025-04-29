@@ -14,7 +14,7 @@ Atualmente, estou focado em aprender **Python** e buscando crescer profissionalm
 
 <br/>
 
-<img align="right" alt="image" src="assets/me-ghibi.png" width="200" />
+<img align="right" alt="image" src="assets/me-ghibi.png" width="250" />
 
 <br/><br/>
 
@@ -22,7 +22,7 @@ Atualmente, estou focado em aprender **Python** e buscando crescer profissionalm
 💪🏾 **Hobbies:** Musculação e ouvir músicas são minhas terapias  
 ☕ Apaixonado por um cafézinho
 
-<br/><br/>
+<br/><br/><br/>
 
 <div align="center">
   <a href="https://developerigorm.github.io/ig_portifolio.github.io/">
@@ -69,7 +69,16 @@ Atualmente, estou focado em aprender **Python** e buscando crescer profissionalm
 
 ---
 
-<img src="assets/rodape-img.png" alt="image" width="1090px" height="300px"/>
-
+<img src="assets/perna-longa-img.png" alt="image" width="1090px" height="300px"/>
+<!-- <div align="left" style="display: flex; align-items: center; background-color: #0D1117">
+  <img 
+    alt="image" 
+    src="assets/pweb.webp" 
+    width="200" 
+    height="160"
+    style="margin: 4em 4em 4em 4em; border-radius: 50%;" 
+  />
+  <p style=" font-size: 25px;"><i>Obrigado pela visita!!</i></p>  -->
+<!-- </div>
 
 ---
