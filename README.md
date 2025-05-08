@@ -25,7 +25,7 @@ Atualmente, estou focado em aprender **Python** e buscando crescer profissionalm
 <br/><br/><br/>
 
 <div align="center">
-  <a href="https://developerigorm.github.io/ig_portifolio.github.io/">
+  <a href="https://igorportfolio.vercel.app/">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=6C63FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio icon" />
   </a>
   <a href="https://www.linkedin.com/in/igor-matheus-b51348252/">
