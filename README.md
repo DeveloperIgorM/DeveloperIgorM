@@ -8,7 +8,7 @@
 
 ---
 
-### Quem sou eu?
+###  Quem sou eu?
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** pela Athon - Ensino Superior e atualmente atuo como **Desenvolvedor Full Stack**.
 
@@ -20,11 +20,11 @@ Atualmente, estou focado em evoluir na stack **Python**, ampliando meus conhecim
 
 ### Sobre mim
 
-<p align="center">
-  🧠 &nbsp;Sempre buscando novos aprendizados<br/>
-  💪🏾 &nbsp;Musculação é meu reset diário<br/>
-  🎧 &nbsp;Música é minha vibe constante<br/>
-  ☕ &nbsp;Apaixonado por um bom café
+<p align="left">
+  🧠 &nbsp; Estou sempre em busca de novos aprendizados e oportunidades para crescer como dev<br/>
+  💪🏾 &nbsp; Musculação é meu reset diário e me ensina disciplina<br/>
+  🎧 &nbsp; Viciado em música — seja pra focar ou viajar nas ideias<br/>
+  ☕ &nbsp; Não vivo sem um cafézinho
 </p>
 
 ---
@@ -48,7 +48,7 @@ Atualmente, estou focado em evoluir na stack **Python**, ampliando meus conhecim
 
 ---
 
-### 📊 GitHub Stats
+
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DeveloperIgorM&layout=compact&langs_count=20&theme=tokyonight" />
@@ -59,7 +59,7 @@ Atualmente, estou focado em evoluir na stack **Python**, ampliando meus conhecim
 
 ### 👨🏾‍💻 Tecnologias que uso
 
-#### 🌐 Front-end
+#### ⚛️ Front-end
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
