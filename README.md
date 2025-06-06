@@ -5,16 +5,18 @@
 <div align="center">
   <img src="assets/me-ghibi.png" width="250px" alt="Igor Matheus" />
 </div>
+</br>
 
 ---
 
-###  Quem sou eu?
+### Quem sou eu?
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** pela Athon - Ensino Superior e atualmente atuo como **Desenvolvedor Full Stack**.
 
 No meu trabalho atual, participo de projetos de melhoria contínua, transformando processos manuais em soluções web integradas. Essa vivência me proporciona experiência prática tanto no **back-end** quanto no **front-end**, além de um bom domínio em **banco de dados** e **versionamento de código**.
 
 Atualmente, estou focado em evoluir na stack **Python**, ampliando meus conhecimentos e buscando crescimento profissional nessa área.
+</br>
 
 ---
 
@@ -26,6 +28,7 @@ Atualmente, estou focado em evoluir na stack **Python**, ampliando meus conhecim
   🎧 &nbsp; Viciado em música — seja pra focar ou viajar nas ideias<br/>
   ☕ &nbsp; Não vivo sem um cafézinho
 </p>
+</br>
 
 ---
 
@@ -45,52 +48,23 @@ Atualmente, estou focado em evoluir na stack **Python**, ampliando meus conhecim
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
   </a>
 </div>
+</br>
 
 ---
 
-
-
+</br>
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DeveloperIgorM&layout=compact&langs_count=20&theme=tokyonight" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperIgorM&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperIgorM&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperIgorM&theme=tokyonight" alt="Github estatísticas"/>
 </div>
+</br>
 
 ---
-
-### 👨🏾‍💻 Tecnologias que uso
-
-#### ⚛️ Front-end
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" />
-</div>
-
-
-
-#### 🖥️ Back-end
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-</div>
-
-
-#### 🛠️ Ferramentas
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />
-</div>
-
----
-
 <img src="assets/perna-longa.png" alt="perna longa" width="100%" height="auto"/>
 
 ---
 
-
+</br>
+<div align="center" >
+  <img src="https://github-profile-trophy.vercel.app/?username=DeveloperIgorM&row=1&column=7&theme=discord"/>
+</div>
