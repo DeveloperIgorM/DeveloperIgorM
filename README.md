@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1B27&height=200&section=header&text=Olá✌🏾,%20sou%20o%20Igor%20Matheus!&fontSize=30&fontColor=70A5FD" />
-</p>
+<div align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&width=500&lines=Olá!+Eu+sou+Igor!+%F0%9F%91%8B%F0%9F%8F%BE" alt="Olá! Eu sou Igor!" />
+</div>
 
 <div align="center">
   <img src="assets/me-ghibi.png" width="250px" alt="Igor Matheus" />
@@ -44,9 +44,6 @@ Atualmente, estou focado em evoluir na stack **Python**, ampliando meus conhecim
   <a href="https://wa.me/5515997227398?">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.instagram.com/igoor_math3us/?next=%2F">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
-  </a>
 </div>
 </br>
 
@@ -54,8 +51,8 @@ Atualmente, estou focado em evoluir na stack **Python**, ampliando meus conhecim
 
 </br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperIgorM&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperIgorM&theme=tokyonight" alt="Github estatísticas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperIgorM&layout=compact&langs_count=20&theme=radical" alt="Github top linguagens"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperIgorM&theme=radical" alt="Github estatísticas"/>
 </div>
 </br>
 
