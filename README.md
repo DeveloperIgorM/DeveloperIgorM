@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&width=500&lines=Olá,+eu+sou+Igor!" alt="Olá, Eu sou Igor!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&width=500&lines=Olá,+eu+sou+Igor!+%F0%9F%91%BD" alt="Olá, Eu sou Igor! 👽" />
 </p>
 
-
+<!-- 
 <div align="center">
   <img src="assets/me-ghibi.png" width="250px" alt="Igor Matheus" />
-</div>
+</div> -->
 
 ---
 
